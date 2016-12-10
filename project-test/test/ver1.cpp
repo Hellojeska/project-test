@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	int s1_no, s2_no, s3_no;            //학번  변경내용
+	int s1_no, s2_no, s3_no;            //학번  
 	int s1_kor, s2_kor, s3_kor;			//국어 성적
 	int s1_math, s2_math, s3_math;		//수학 성적
 		char select;
@@ -19,7 +19,6 @@ int main()
 		cout << "1. 학생 성적 추가\n";
 		cout << "2. 전체 성적 보기\n";
 		cout << "Q. 프로그램 종료\n";
-		cout << "2.dnjkn\n";
 		cout << "--------------------------\n\n";
 		cout << "원하는 작업의 번호를 입력하세요. : ";
 
